@@ -1,0 +1,1 @@
+Compliance Knowledge Portal with Source Citations and Admin-Ready Backend knowledge base. Refund requests should be acknowledged within 24 hours. Eligible refunds require order id, reason, purchase date, and customer contact. Escalate VIP customer refunds or missing payment records to an operations manager.
